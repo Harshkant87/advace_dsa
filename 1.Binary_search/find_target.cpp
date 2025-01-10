@@ -1,7 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 // Time complexity: O(logn)
+<<<<<<< HEAD
 // Space complexity: O(1)
+=======
+// Space complexity: O(1), ignore the recursion stack
+>>>>>>> c3a64d9207dce05ec5771fa7a27445ad243b3a91
 // Binary search is a fast search algorithm with run-time complexity of O(log n). 
 // This search algorithm works on the principle of divide and conquer. For this algorithm to work properly, 
 // the data collection should be in the sorted form.
@@ -59,4 +63,8 @@ int main(){
     }
     else
         cout<<"target: "<<target<<" found at index: "<<index2<<endl;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c3a64d9207dce05ec5771fa7a27445ad243b3a91
